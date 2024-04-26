@@ -1,5 +1,6 @@
 const copy = () => {
   
-    navigator.clipboard.writeText('amirhossein kakavand');
+    navigator.clipboard.writeText('amirhossein kakavand');    
   
 }
+
